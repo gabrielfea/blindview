@@ -41,7 +41,7 @@ O objetivo do Blindview é fornecer uma ferramenta que transforma a percepção 
 ├── imagem6.mp3
 ├── imagem7.jpg
 ├── imagem7.mp3
-
+'''
 
 ## Exemplo de uso:
 
