@@ -22,27 +22,6 @@ O objetivo do Blindview é fornecer uma ferramenta que transforma a percepção 
 - **GEMINI**: I.A. Generativa da Google que analisa a imagem e faz a descrição em texto.
 - **GTTs**: Google Text-to-Speech API para geração das descrições de áudio.
 
-## Estrutura do Projeto
-
-```plaintext
-├── BlindView.ipynb
-├── README.md
-├── imagem1.jpg
-├── imagem1.mp3
-├── imagem2.jpg
-├── imagem2.mp3
-├── imagem3.png
-├── imagem3.mp3
-├── imagem4.jpg
-├── imagem4.mp3
-├── imagem5.jpg
-├── imagem5.mp3
-├── imagem6.jpg
-├── imagem6.mp3
-├── imagem7.jpg
-├── imagem7.mp3
-'''
-
 ## Exemplo de uso:
 
 ![imagem1](imagem1.jpg)
@@ -65,3 +44,24 @@ Um homem está em pé, em uma sala, vestindo um quimono branco com detalhes em v
 
 ![imagem7](https://github.com/gabrielfea/blindview/assets/97911416/1fa22004-c57a-4be9-aa4c-6b670ac15990)
 A imagem é um símbolo de yin e yang, que representa o equilíbrio entre as forças opostas da natureza. O símbolo é composto por dois círculos, um preto e um branco, que estão interligados. O círculo preto representa o yin, que é o princípio feminino, e o círculo branco representa o yang, que é o princípio masculino. Os dois círculos estão cercados por uma borda de espinhos, que representa a proteção e a força.
+
+## Estrutura do Projeto
+
+```plaintext
+├── BlindView.ipynb
+├── README.md
+├── imagem1.jpg
+├── imagem1.mp3
+├── imagem2.jpg
+├── imagem2.mp3
+├── imagem3.png
+├── imagem3.mp3
+├── imagem4.jpg
+├── imagem4.mp3
+├── imagem5.jpg
+├── imagem5.mp3
+├── imagem6.jpg
+├── imagem6.mp3
+├── imagem7.jpg
+├── imagem7.mp3
+
