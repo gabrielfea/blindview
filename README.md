@@ -1,5 +1,7 @@
 # Blindview
 
+![logo](blindview.webp)
+
 ## Introdução
 
 O Blindview é um projeto desenvolvido para melhorar a acessibilidade de pessoas com deficiência visual. Utilizando técnicas de deep learning e processamento de imagens, o Blindview converte imagens capturadas em descrições de áudio, permitindo uma interpretação auditiva do ambiente ao redor.
